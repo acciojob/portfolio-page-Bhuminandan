@@ -1,2 +1,23 @@
+*{
+    background-color: darkolivegreen;
+}
+img{
+    width: 150px;
+}
 
-/* Your CSS Code here. */
+h1{
+    max-width: max-content;
+    background-color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+h2{
+    max-width: max-content;
+    background-color: aliceblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
